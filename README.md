@@ -1,1 +1,1 @@
-#this is my prject details file.
+# this is my prject details file.
