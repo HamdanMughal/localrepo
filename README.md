@@ -1,1 +1,1 @@
-# this is my prject details file.
+# This is my Dummy Project Details.
